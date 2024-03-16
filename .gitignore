@@ -6,3 +6,4 @@
 /uploads
 /src/libs/fileUploader/uploads
 /tagUploads
+/.env
